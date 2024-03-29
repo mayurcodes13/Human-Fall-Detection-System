@@ -37,4 +37,4 @@ We are committed to continuous improvement and future versions of the system wil
 
 ---
 
-For more information and to view the source code, visit the GitHub repository: [Human Fall Detection System GitHub Repo](https://github.com/yourusername/human-fall-detection-system)
+For more information and to view the source code, visit the GitHub repository: [Human Fall Detection System GitHub Repo](https://github.com/mayurcodes13/Human-Fall-Detection-System)
